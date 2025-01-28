@@ -1,3 +1,7 @@
+@extends('layout.main')
+
+@section('content')
 <div>
-    {{-- Success is as dangerous as failure. --}}
+    Mengontol
 </div>
+@endsection

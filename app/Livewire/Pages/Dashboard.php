@@ -6,7 +6,7 @@ use Livewire\Component;
 
 class Dashboard extends Component
 {
-    public function render()
+    public function index()
     {
         return view('livewire.pages.dashboard');
     }
